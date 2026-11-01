@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veienlai.github.io/meiridasaiji/sitemap.xml
